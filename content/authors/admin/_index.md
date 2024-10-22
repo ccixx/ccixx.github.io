@@ -71,7 +71,7 @@ education:
   - area: BA Water Supply and Drainage Science and Engineering
     institution: Xi'an University of Technology
     date_start: 2017-09-01
-    date_end: 2021-6-30
+    date_end: 2021-06-30
     summary: |
       GPA: 3.2/4.0
 
