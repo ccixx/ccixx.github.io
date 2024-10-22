@@ -54,7 +54,7 @@ education:
   - area: MA Environmental Engineering
     institution: Northwest University
     date_start: 2022-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       Thesis on the Coupling Relationship and Driving Forces between Carbon Emissions and Ecological Spatial Sustainability at the National Scale. Supervised by [Prof Jiang Xiaohui](https://env.nwu.edu.cn/info/1134/1078.htm). 
 
@@ -71,7 +71,7 @@ education:
   - area: BA Water Supply and Drainage Science and Engineering
     institution: Xi'an University of Technology
     date_start: 2017-09-01
-    date_end: 2021-6-31
+    date_end: 2021-6-30
     summary: |
       GPA: 3.2/4.0
 
