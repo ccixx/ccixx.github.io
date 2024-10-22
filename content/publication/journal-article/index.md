@@ -1,12 +1,17 @@
 ---
-title: "An example journal article"
+title: "Driving factors of the spatial and temporal
+evolution of ecological space sustainability and the decoupling effect of carbon emissions:A case
+study of the Loess Plateau"
 authors:
-- admin
-- Robert Ford
+- Xu Fangbing
+- Jiang Xiaohui
+- Zhang Lin
+- Chen Nuo
+- Jiang Xuping
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,13 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Global Environmental Change"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The Loess Plateau faces severe ecological and environmental challenges, which are both widespread and typical. Since the United Nations proposed the Sustainable Development Goals (SDGs), the evaluation and analysis of ecological sustainability have become critical. There is an urgent need to establish an ecological sustainability evaluation system suitable for this region and to study its driving mechanisms. Based on the SDGs, this paper constructs a localized comprehensive index system for the ecological space sustainability of the Loess Plateau, encompassing four dimensions and twelve specific indicators. By using the entropy method for objective and comprehensive weighting, we evaluate the overall and dimensional sustainability of the ecological space in this region. The GTWR model is used to analyze driving factors, and the Tapio model is employed to assess the coupling state between carbon emission intensity and ecological sustainability. The results show that:(1) During the study period, the ecological space sustainability of the Loess Plateau improved to some extent, with urban development having a negative impact on ecological sustainability, especially in areas along rivers. (2) There is significant spatiotemporal heterogeneity in the driving factors of ecological sustainability in the Loess Plateau, with human activities being the main influencing factor. (3) The relationship between ecological sustainability intensity and carbon emission intensity varies across regions.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Conducted a GIS-based evaluation of ecological sustainability in the Loess Plateau over the past decade, assessing both fractal and overall dimensions. Developed a localized indicator system and employed various models (such as RUSLE, Invest, Fragstats) to calculate the indicators. Additionally, investigated the relationship between ecological sustainability and carbon emissions under multiple driving factors using the Tapio and GTWR models.
 
 tags:
 - Source Themes
