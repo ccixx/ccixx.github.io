@@ -57,7 +57,9 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - journal-article
+          - journal-article-2
+          - journal-article-3
         exclude_featured: false
     design:
       view: citation
