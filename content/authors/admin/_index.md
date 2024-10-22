@@ -31,12 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'xufangbing@stumail.nwu.edu.cn'
+    url: 'mailto:xufangbing@stumail.nwu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: #https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: #https://www.instagram.com/
+  #- icon: brands/x
+    #url: #https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+    #url: #https://www.instagram.com/
   - icon: brands/github
     url: #https://github.com/gcushen
   - icon: brands/linkedin
@@ -56,7 +56,7 @@ education:
     date_start: 2022-09-01
     date_end: 2025-06-30
     summary: |
-      Thesis on the Coupling Relationship and Driving Forces between Carbon Emissions and Ecological Spatial Sustainability at the National Scale. Supervised by Prof Prof [Jiang Xiaohui](https://env.nwu.edu.cn/info/1134/1078.htm) 
+      Thesis on the Coupling Relationship and Driving Forces between Carbon Emissions and Ecological Spatial Sustainability at the National Scale. Supervised by Prof Jiang Xiaohui. 
 
       GPA: 3.5/4.0
 
