@@ -31,7 +31,7 @@ summary: Utilized Python to separate baseflow and conduct suitability analysis. 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

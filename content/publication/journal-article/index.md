@@ -33,7 +33,7 @@ summary: Conducted a GIS-based evaluation of ecological sustainability in the Lo
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
