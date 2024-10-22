@@ -56,7 +56,7 @@ education:
     date_start: 2022-09-01
     date_end: 2025-06-30
     summary: |
-      Thesis on the Coupling Relationship and Driving Forces between Carbon Emissions and Ecological Spatial Sustainability at the National Scale. Supervised by Prof Jiang Xiaohui (https://env.nwu.edu.cn/info/1134/1078.htm). 
+      Thesis on the Coupling Relationship and Driving Forces between Carbon Emissions and Ecological Spatial Sustainability at the National Scale. Supervised by Prof Prof [Jiang Xiaohui](https://env.nwu.edu.cn/info/1134/1078.htm) 
 
       GPA: 3.5/4.0
 
