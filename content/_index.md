@@ -57,9 +57,8 @@ sections:
       text: ""
       filters:
         folders:
-          - journal-article
+          - publication
         exclude_featured: false
-        recent_only: true
     design:
       view: citation
   - block: collection
