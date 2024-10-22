@@ -20,58 +20,65 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Environmental Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Northwest University
+    url: https://env.nwu.edu.cn/index.htm
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'xufangbing@stumail.nwu.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: #https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: #https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: #https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: #https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: #https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: #https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecohydrology
+  - Remote Sensing and GIS
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MA Environmental Engineering
+    institution: Northwest University
+    date_start: 2022-09-01
+    date_end: 2025-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Thesis on the Coupling Relationship and Driving Forces between Carbon Emissions and Ecological Spatial Sustainability at the National Scale. Supervised by [Prof Jiang Xiaohui](https://env.nwu.edu.cn/info/1134/1078.htm). 
+
+      GPA: 3.5/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced Environmental Science
+      - Wastewater Treatment
+      - Environmental Reaction Engineering
+      - Modern Environmental Analysis Techniques
+    button:
+      text: 'Read Thesis'
+      url: #'https://example.com'
+  - area: BA Water Supply and Drainage Science and Engineering
+    institution: Xi'an University of Technology
+    date_start: 2017-09-01
+    date_end: 2021-6-31
+    summary: |
+      GPA: 3.2/4.0
+
+      Courses included:
+      - Fluid Mechanics
+      - Chemical Pollutants Analysis
+      - Hydrological Modeling
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -183,4 +190,5 @@ awards:
 
 ## About Me
 
-Xu Fangbing is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Xu Fangbing is a master's student in Environmental Engineering at Northwest University. Her research focuses on GIS- and remote sensing-based ecological sustainability assessments. She has published several first-author papers in SCI journals and actively contributes to studies on the ecological protection and high-quality development of the Yellow River Basin. Xu is experienced in using advanced models such as the GTWR, Tapio decoupling, and Budyko frameworks to explore the relationships between human activities, water systems, and ecological sustainability.
