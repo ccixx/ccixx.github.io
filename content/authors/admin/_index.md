@@ -79,6 +79,7 @@ education:
       - Fluid Mechanics
       - Chemical Pollutants Analysis
       - Hydrological Modeling
+  <!--
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -90,6 +91,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  -->
+<!--
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -113,7 +116,7 @@ work:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+-->
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -149,11 +152,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: Uyghur
     percent: 25
 
 # Awards.
