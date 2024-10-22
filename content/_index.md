@@ -58,9 +58,8 @@ sections:
       filters:
         folders:
           - journal-article
-          - journal-article-2
-          - journal-article-3
         exclude_featured: false
+        recent_only: true
     design:
       view: citation
   - block: collection

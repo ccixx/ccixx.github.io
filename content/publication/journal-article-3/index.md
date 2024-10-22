@@ -31,6 +31,7 @@ summary: Summarized the recent achievements and initiatives in the Yellow River 
 tags:
 - Source Themes
 featured: false
+recent: true
 
 # links:
 # - name: ""
