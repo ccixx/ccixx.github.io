@@ -35,14 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm an environmental researcher focused on ecological sustainability. My work involves
-        utilizing GIS and remote sensing techniques to assess and analyze ecological conditions,
-        with a specific emphasis on developing localized sustainability indicators. I publish my
-        findings in leading scientific journals and am particularly interested in the coupling
-        relationships between carbon emissions and ecological sustainability. I am passionate
-        about leveraging my research to inform policies that promote sustainable development
-        and environmental protection.
-    
+        I'm an environmental researcher focused on ecological sustainability and the impacts of coal mining on water resources. My work involves utilizing GIS and remote sensing techniques to assess and analyze ecological conditions, with a specific emphasis on developing localized sustainability indicators. I publish my findings in leading scientific journals and am particularly interested in the coupling relationships between carbon emissions and ecological sustainability. I am passionate about leveraging my research to inform policies that promote sustainable development and environmental protection. 
+        
         Please feel free to reach out to collaborate! 😃
     design:
       columns: '1'
